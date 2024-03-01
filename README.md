@@ -3,7 +3,8 @@
 Impresora 3D con sistema multicabezal independiente a partir de la Ender 3
 
 ![](https://github.com/Inderlard/Hextar-Orthos/blob/main/Media/Hextar%20Orthos.png?raw=true)
-![](https://github.com/Inderlard/Hextar-Orthos/blob/main/Media/Cambio%20Ocabezal.gif?raw=true)
+![](https://github.com/Inderlard/Hextar-Orthos/blob/main/Media/Cambio%20cabezal.gif?raw=true)
+
 
 ## Actualizaciones previas
 
